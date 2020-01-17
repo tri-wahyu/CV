@@ -1,0 +1,136 @@
+{
+  "main": {
+    "name":"Tri Wahyu",
+    "occupation":"Web Developer",
+    "description":"Experienced Software Engineer with a demonstrated history of working in the information technology and services industry. Skilled in Microsoft Word, Management, HTML, CSS, and JavaScript. Strong engineering professional with a Bachelor's degree focused in Teknik Informatika from University of Brawijaya.",
+    "image":"profilepic.jpg",
+    "bio":"An adaptable, creative, hard worker, self-motivated person, team work capability and communications skills. Moreover, possess the right technical and soft skills required to propel organization achieving goals.",
+    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "email": "treins622@gmail.com / wahyu.teri@yahoo.com",
+    "phone": "081230045483",
+    "address":{
+      "street":"Jl.D.Maninjau Barat II B3/A18",
+      "city":"Malang",
+      "state":"Jawa Timur",
+      "zip": "65139"
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload":"Profile.pdf",
+    "social":[
+      {
+        "name":"github",
+        "url":"https://github.com/tri-wahyu",
+        "className":"fa fa-github"
+      },
+      {
+        "name":"gitlab",
+        "url":"https://www.linkedin.com/in/tri-wahyu-prasetyo-84ba90b2/",
+        "className":"fa fa-linkedin"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"My Skill",
+    "education":[
+      {
+        "school":"University",
+        "degree":"Bachelor in Informatics Engineering",
+        "graduated":"February 2017"
+      }
+    ],
+    "work":[
+      {
+        "company":"PT. ITPI Technology",
+        "title":"Frontend Developer",
+        "years":"May 2017 - September 2017"
+      },
+      {
+        "company":"PT. Visionet Data International",
+        "title":"Developer",
+        "years":"January 2018 - Present"
+      }
+    ],
+    "skills":[
+      {
+        "name":"Git",
+        "level":"80%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"50%"
+      },
+      {
+        "name":"CSS",
+        "level":"70%"
+      },
+      {
+        "name":"HTML5",
+        "level":"85%"
+      },
+      {
+        "name":"Angular",
+        "level":"80%"
+      },
+      {
+        "name":"MySQL",
+        "level":"60%"
+      },
+      {
+        "name":"DB2",
+        "level":"60%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Fleet Management System",
+        "category":"Project PT.HM Sampoerna Tbk",
+        "image":"FMS.png",
+        "url":"#"
+      },
+      {
+        "title":"Property System",
+        "category":"Project Engine3",
+        "image":"Propsys.png",
+        "url":"http://propertysystem.lippohomes.com"
+      },
+      {
+        "title":"Online Booking Web",
+        "category":"Project Engine3",
+        "image":"OB.png",
+        "url":"http://booking.lippohomes.com/"
+      },
+      {
+        "title":"Tax",
+        "category":"Project Engine3",
+        "image":"Tax.png",
+        "url":"#"
+      },
+      {
+        "title":"Credit Monitoring",
+        "category":"Project Engine3",
+        "image":"CM.png",
+        "url":"#"
+      },
+      {
+        "title":"Bank Portal",
+        "category":"Project Engine3",
+        "image":"BP.png",
+        "url":"#"
+      },
+      {
+        "title":"Personal",
+        "category":"Project Engine3",
+        "image":"Personal.png",
+        "url":"#"
+      },
+      {
+        "title":"Refaktor Propsys",
+        "category":"Project Infinity8",
+        "image":"Refactor.png",
+        "url":"#"
+      }
+    ]
+  }
+}
