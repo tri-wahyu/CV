@@ -219,10 +219,10 @@ ul#nav li.current a { color: #15c1ca; }
 #about .main-col { padding-right: 5%; }
 #about .download .button {
    margin-top: 6px;
-   background: #3e0894;
+   background: #091d65;
 }
 #about .download .button:hover {
-   background: #091d65;
+   background: #3e0894;
    color: #fff;
 }
 #about .download .button i {
@@ -323,9 +323,12 @@ ul#nav li.current a { color: #15c1ca; }
   	height: 42px;
    line-height: 42px;
    border-radius: 3px 0 0 3px;
-   color: white;
-   text-align: right;
-   font-weight: 700;
+}
+.bar-skill {
+   float: right;
+   color: black;
+   font-size: x-large;
+   padding: 12px;
 }
 /*
 .git {
