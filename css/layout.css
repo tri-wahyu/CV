@@ -323,6 +323,9 @@ ul#nav li.current a { color: #15c1ca; }
   	height: 42px;
    line-height: 42px;
    border-radius: 3px 0 0 3px;
+   color: white;
+   text-align: right;
+   font-weight: 700;
 }
 /*
 .git {
