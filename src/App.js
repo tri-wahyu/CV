@@ -21,10 +21,11 @@ class App extends Component {
     ReactGA.pageview(window.location.pathname);
 
   }
-
+  
   getResumeData(){
+    var resumeJSON = 'resumeData.json'
     $.ajax({
-      url:'/resumeData.json',
+      url: resumeJSON,
       dataType:'json',
       cache: false,
       success: function(data){
