@@ -53,15 +53,15 @@
     "skills":[
       {
         "name":"Git",
-        "level":"80%"
+        "level":"75%"
       },
       {
         "name":"ReactJs",
-        "level":"50%"
+        "level":"60%"
       },
       {
         "name":"CSS",
-        "level":"70%"
+        "level":"75%"
       },
       {
         "name":"HTML5",
@@ -73,11 +73,11 @@
       },
       {
         "name":"MySQL",
-        "level":"60%"
+        "level":"70%"
       },
       {
         "name":"DB2",
-        "level":"60%"
+        "level":"70%"
       }
     ]
   },
