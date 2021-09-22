@@ -47,7 +47,12 @@
       {
         "company":"PT. Visionet Data International",
         "title":"Developer",
-        "years":"January 2018 - Present"
+        "years":"January 2018 - January 2020"
+      },
+      {
+        "company": "Lanius Innovation Labs",
+        "title": "Frontend Project Web",
+        "years": "July 2020 - Now"
       }
     ],
     "skills":[
@@ -72,8 +77,20 @@
         "level":"80%"
       },
       {
+        "name": "Vue",
+        "level": "75%"
+      },
+      {
         "name":"MySQL",
         "level":"60%"
+      },
+      {
+        "name":"Postgres",
+        "level":"60%"
+      },
+      {
+        "name": "MongoDb",
+        "level": "60%"
       },
       {
         "name":"DB2",
@@ -130,6 +147,36 @@
         "category":"Project Infinity8",
         "image":"Refactor.png",
         "url":"#"
+      },
+      {
+        "title": "Esim Engineering Admin",
+        "category": "Project Danone",
+        "image": "esim-admin.png",
+        "url": "http://demo-sim-revamp.machinevision.global:8030/"
+      },
+      {
+        "title": "Esim Engineering Operator",
+        "category": "Project Danone",
+        "image": "esim-operator.png",
+        "url": "http://demo-sim-revamp.machinevision.global:8031/"
+      },
+      {
+        "title": "Esim Engineering TV",
+        "category": "Project Danone",
+        "image": "esim-tv.png",
+        "url": "http://demo-sim-revamp.machinevision.global:8033/"
+      },
+      {
+        "title": "CI Tracker",
+        "category": "Project Danone",
+        "image": "CI.png",
+        "url": "http://demo-sim-revamp.machinevision.global:8033/"
+      },
+      {
+        "title": "IKM Kemenpperin",
+        "category": "Project RPA",
+        "image": "ikm.png",
+        "url": "http://45.77.249.88:8017/"
       }
     ]
   }
